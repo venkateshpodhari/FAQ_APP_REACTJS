@@ -1,0 +1,26 @@
+/* Write your code here. */
+.li {
+  list-style-type: none;
+
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 20px;
+  align-items: center;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.img {
+  height: 50px;
+  cursor: pointer;
+}
+
+.question {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.list {
+  list-style-type: none;
+}
